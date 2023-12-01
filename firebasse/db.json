@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "iphone",
+      "price": "5000",
+      "image": ""
+    },
+    {
+      "name": "df",
+      "price": "fgdf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/js09-feadc.appspot.com/o/image%2Fa.webp?alt=media&token=00765db4-2728-4fa0-bb2a-7335be6c553e",
+      "id": 2
+    },
+    {
+      "name": "efed",
+      "price": "fdfs",
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2Fa.webp?alt=media&token=6bcd8535-1254-43d0-82b0-73353eeb6bd8",
+      "id": 3
+    }
+  ]
+}
