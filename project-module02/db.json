@@ -1,0 +1,331 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "name": "admin",
+      "email": "vinh123@hmail.com",
+      "password": "123456",
+      "confpassword": "123456",
+      "cart": [],
+      "status": true,
+      "role": "admin"
+    },
+    {
+      "id": 6,
+      "name": "vinh",
+      "email": "vinh@hmail.com",
+      "password": "111111",
+      "confpassword": "111111",
+      "cart": [],
+      "status": false,
+      "role": "user"
+    },
+    {
+      "id": 7,
+      "name": "vinh",
+      "email": "vinh111@hmail.com",
+      "password": "111111",
+      "confpassword": "111111",
+      "cart": [],
+      "status": true,
+      "role": "user"
+    },
+    {
+      "id": 8,
+      "name": "vinh",
+      "email": "gfgfdsf@gmaill.com",
+      "password": "111111",
+      "confpassword": "111111",
+      "cart": [],
+      "status": true,
+      "role": "user"
+    }
+  ],
+  "product": [
+    {
+      "name": "ipad 1",
+      "price": 13000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0007071_ipad-pro-m2-11-inch-wifi-128gb_240.png?alt=media&token=f663e02b-924e-4fe3-a7e9-a4da602ba349",
+      "category": "2",
+      "id": 5
+    },
+    {
+      "name": "ipad 2",
+      "price": 15000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0007186_ipad-pro-m2-11-inch-wifi-cellular-128gb_240.png?alt=media&token=51e8da8a-2ed5-4408-b856-27f8615daf0a",
+      "category": "2",
+      "id": 6
+    },
+    {
+      "name": "ipad 3",
+      "price": 17000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0007301_ipad-pro-m2-129-inch-wifi-128gb_240.png?alt=media&token=e771b7b2-94ce-4072-8f3d-5b711392a6a9",
+      "category": "2",
+      "id": 7
+    },
+    {
+      "name": "ipad 4",
+      "price": 20000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0009725_ipad-gen-10th-109-inch-wifi-64gb_240.png?alt=media&token=1a36cdb6-bd4c-4b8c-8eb3-2b7d1d4bfdde",
+      "category": "2",
+      "id": 8
+    },
+    {
+      "name": "Macbook air 1",
+      "price": 20000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0000723_macbook-air-m1-2020-8gb-ram-256gb-ssd_240.png?alt=media&token=94b14779-9a24-4886-9a9c-9849612e05ad",
+      "category": "3",
+      "id": 9
+    },
+    {
+      "name": "Macbook air 2",
+      "price": 22000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0008043_macbook-pro-16-m1-pro-16-core16gb1tb_240.png?alt=media&token=c8683104-4a1c-4260-a3d0-cb0158e7f213",
+      "category": "3",
+      "id": 10
+    },
+    {
+      "name": "Macbook air 3",
+      "price": 24000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0008502_macbook-air-m2-2022-8gb-ram-256gb-ssd_240.png?alt=media&token=0d75780e-4330-43fe-ad57-cb345bbb86b4",
+      "category": "3",
+      "id": 11
+    },
+    {
+      "name": "Macbook air 4",
+      "price": 26000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0008682_macbook-pro-13-inch-m2-10-core-8gb-ram-256gb-ssd_240.png?alt=media&token=f8b30cf4-e0d4-4115-acfb-cd34c3cc0f12",
+      "category": "3",
+      "id": 12
+    },
+    {
+      "name": "Apple watch 1",
+      "price": 3000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0000896_apple-watch-se-2022-nhom-gps_240.png?alt=media&token=2743ef03-71b5-4169-82ec-fa5a731e3edd",
+      "category": "4",
+      "id": 13
+    },
+    {
+      "name": "Apple watch 3",
+      "price": 5000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0000950_apple-watch-ultra-lte-49mm-ocean-band_240.png?alt=media&token=ccc0c80a-441c-4bb0-abd6-fb7d34e1bde2",
+      "category": "4",
+      "id": 15
+    },
+    {
+      "name": "Apple watch 4",
+      "price": 6000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0000965_apple-watch-series-8-41mm-nhom-gps-cellular_240.png?alt=media&token=319458f5-9278-4340-b799-8b07f06da302",
+      "category": "4",
+      "id": 16
+    },
+    {
+      "name": "Airpods 2",
+      "price": 5500,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2Fgroup_169_2.webp?alt=media&token=2db75f06-591e-433d-bf5e-3545aae1b737",
+      "category": "5",
+      "id": 18
+    },
+    {
+      "name": "Airpods 3",
+      "price": 6000,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2Fgroup_170_1_1.webp?alt=media&token=309f611f-1b6d-4416-ad84-46d42473cecd",
+      "category": "5",
+      "id": 19
+    },
+    {
+      "name": "Airpods 4",
+      "price": 3500,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2Ftai-nghe-apple-earpods-usb-c_1_.webp?alt=media&token=b0c11d01-3a8f-4b65-96c1-bbecfca03b1d",
+      "category": "5",
+      "id": 20
+    },
+    {
+      "name": "Airtag",
+      "price": 790,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2Fairtag.webp?alt=media&token=d3d74b6a-6a63-4596-8ae7-b8489ba9a035",
+      "category": "6",
+      "id": 21
+    },
+    {
+      "name": "Airpen",
+      "price": 500,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2Fbut-cam-ung-apple-pencil-2.webp?alt=media&token=4ea0b782-6b05-4bed-b968-9caf3f28a483",
+      "category": "6",
+      "id": 22
+    },
+    {
+      "name": "Charge",
+      "price": 490,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2Fgroup_117_1.webp?alt=media&token=36454486-d6ad-4a75-8ae6-352b2e68132a",
+      "category": "6",
+      "id": 23
+    },
+    {
+      "name": "Case",
+      "price": 390,
+      "image": "",
+      "quantity": 1,
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2Fop-lung-iphone-15-trong-suot-magsafe-08_1.webp?alt=media&token=5b7ae25b-efdc-4daf-8453-d2f4141cf488",
+      "category": "6",
+      "id": 24
+    },
+    {
+      "name": "iphone 12",
+      "price": 12000,
+      "image": "",
+      "quantity": "1",
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0000596_iphone-13_240.png?alt=media&token=962de3bd-89e9-4ea2-b32b-22231b4c2ec7",
+      "category": "1",
+      "id": 25
+    },
+    {
+      "name": "iphone 13",
+      "price": 15000,
+      "image": "",
+      "quantity": "1",
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0007808_iphone-14-pro-max-128gb_240.png?alt=media&token=1bb2af70-6eec-48bc-a219-353843d48646",
+      "category": "1",
+      "id": 26
+    },
+    {
+      "name": "iphone 14",
+      "price": 17000,
+      "image": "",
+      "quantity": "1",
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0008734_iphone-14-pro-128gb_240.png?alt=media&token=b0975b5e-9b76-415c-b4b9-765583c70b76",
+      "category": "1",
+      "id": 27
+    },
+    {
+      "name": "iphone 15",
+      "price": 20000,
+      "image": "",
+      "quantity": "1",
+      "url": "https://firebasestorage.googleapis.com/v0/b/project-33e09.appspot.com/o/image%2F0009495_iphone-14-plus-128gb_240.png?alt=media&token=57fdc2b4-e322-42cb-bb2c-9c9f8e78afec",
+      "category": "1",
+      "id": 28
+    }
+  ],
+  "category": [
+    {
+      "category": "Iphone",
+      "id": 1
+    },
+    {
+      "category": "Ipad",
+      "id": 2
+    },
+    {
+      "category": "Macbook",
+      "id": 3
+    },
+    {
+      "category": "Watch",
+      "id": 4
+    },
+    {
+      "category": "Music",
+      "id": 5
+    },
+    {
+      "category": "Case",
+      "id": 6
+    },
+    {
+      "category": "News",
+      "id": 7
+    },
+    {
+      "category": "Advice",
+      "id": 8
+    }
+  ],
+  "bills": [
+    {
+      "name": "vinh",
+      "address": "",
+      "phone": "1241234",
+      "order": "",
+      "totalPrice": 57000,
+      "status": "",
+      "adress": "ha noi",
+      "id": 1
+    },
+    {
+      "name": "vinh",
+      "address": "",
+      "phone": "1241234",
+      "order": "",
+      "totalPrice": 57000,
+      "status": "",
+      "adress": "ha noi",
+      "id": 2
+    },
+    {
+      "name": "vinh",
+      "address": "",
+      "phone": "1241234",
+      "order": "",
+      "totalPrice": 57000,
+      "status": "",
+      "adress": "ha noi",
+      "id": 3
+    },
+    {
+      "name": "vinh",
+      "address": "",
+      "phone": "1241234",
+      "order": "",
+      "totalPrice": 57000,
+      "status": "",
+      "adress": "ha noi",
+      "id": 4
+    },
+    {
+      "name": "asd",
+      "address": "",
+      "phone": "asd",
+      "order": "",
+      "totalPrice": 57000,
+      "status": "",
+      "adress": "asd",
+      "id": 5
+    }
+  ],
+  "cart": []
+}

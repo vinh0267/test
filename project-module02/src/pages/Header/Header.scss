@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    background-color: rgb(78, 71, 71);
+
+    input {
+        border-radius: 5px;
+        width: 350px;
+    }
+}
+
+.navbar23 {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    align-items: center;
+    background-color: black;
+    height: 70px;
+}
+
+.active {
+    color: rgb(225, 20, 20);
+
+}

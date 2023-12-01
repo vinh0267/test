@@ -1,0 +1,23 @@
+.box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+    .table1 {
+        // border: 1px solid black;
+        width: 1400px;
+        height: 700px;
+
+        .th_Oder {
+            font-size: 22px;
+            // border: 1px solid black;
+        }
+
+        .td_Oder {
+            text-align: center;
+            font-size: 17px;
+            border-bottom: 1px solid;
+        }
+    }
+}

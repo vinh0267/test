@@ -1,0 +1,37 @@
+.box_table2 {
+    width: 400px;
+    height: 620px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    top: 5px;
+    border: 1px solid black;
+    font-size: 22px;
+}
+
+.table_product2 {
+    border: 1px solid black;
+    margin-left: 530px;
+    margin-top: -660px;
+    width: 1300px;
+
+    .th2 {
+        border: none;
+        border-bottom: 1px solid;
+        text-align: center;
+        font-size: 22px;
+    }
+
+    .td2 {
+        border: none;
+        border-bottom: 1px solid;
+        text-align: center;font-size: 18px;
+        
+    }
+
+    .text-center {
+        margin-left: 100px;
+      
+    }
+    
+}

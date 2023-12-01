@@ -1,0 +1,21 @@
+.user {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+    .table2 {
+        width: 1200px;
+        height: 200px;
+
+        .tth {
+        text-align: center;
+        font-size: 22px;
+        }
+        .ttd{
+            text-align: center;
+            font-size: 18px;
+            border-bottom: 1px solid;
+        }
+    }
+}

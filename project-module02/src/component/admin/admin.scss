@@ -1,0 +1,24 @@
+.admin {
+    background-color: rgb(194, 191, 191);
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    
+
+    .ad_product:hover {
+        cursor: pointer;
+    }
+    .ad_order:hover {
+        cursor: pointer;
+    }
+    .ad_user:hover {
+        cursor: pointer;
+    }
+    .ad_category:hover {
+        cursor: pointer;
+    }
+}

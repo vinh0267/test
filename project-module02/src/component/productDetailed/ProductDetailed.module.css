@@ -1,0 +1,22 @@
+img {
+    max-width: 100%;
+}
+
+.card {
+    margin-top: 50px;
+    background: #eee;
+    padding: 3em;
+    line-height: 1.5em;
+}
+
+@media screen and (min-width: 997px) {
+    .wrapper {
+        display: flex;
+    }
+}
+
+.details {
+    margin-left: 5%;
+    display: flex;
+    flex-direction: column;
+}
